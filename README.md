@@ -2,4 +2,4 @@
 
 This is the primary remote repository for the paper Inter-Beat Interval Estimation with Tiramisu Model: A Novel Approach With Reduced Error   
 
-
+This work also served as a course project for CptS 570: Machine Learning and performed by Asiful Arefeen and Md Mahedi Hasan
